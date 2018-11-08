@@ -19,7 +19,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<build>
+	<!-- Hi -->	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
